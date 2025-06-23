@@ -1,1 +1,1 @@
-https://github.com/nitinrana/myWebSite
+https://nitinrana.github.io/myWebSite
