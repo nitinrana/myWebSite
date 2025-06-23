@@ -4,14 +4,14 @@
   "private": true,
   "author": "Creative Tim",
   "license": "See license in https://www.creative-tim.com/license",
-  "homepage": "https://github.com/nitinrana/myWebSite",
+  "homepage": "https://nitinrana.github.io/myWebSite",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
-    "deploy": "touch out/.nojekyll && gh-pages -d out"
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "@heroicons/react": "2.0.18",
